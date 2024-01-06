@@ -7,6 +7,7 @@ while True:
 
         title = "Drink Water Reminder",
         message = "🚰 Remember to stay hydrated! Take a sip of water now! 💧💦",
+        app_icon = "water.ico",
         timeout = 10
     )
 

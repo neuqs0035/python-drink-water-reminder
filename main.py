@@ -6,7 +6,7 @@ while True:
     notification.notify(
 
         title = "Drink Water Reminder",
-        message = "⏰ Hey there! Time for a quick break. \n\n🚰 Don't forget to grab a refreshing drink of water and stay hydrated! \n\nYour body will thank you. 💧💙",
+        message = "🚰 Remember to stay hydrated! Take a sip of water now! 💧💦",
         timeout = 10
     )
 

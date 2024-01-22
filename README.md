@@ -1,4 +1,4 @@
-# python-drink-water-reminder
+# Python Drink Water Reminder 💧🔔
 A Python Script To Show Drink Water  💧Reminder 🔔 Every 1 Hour ⌚
 
 ## Overview
